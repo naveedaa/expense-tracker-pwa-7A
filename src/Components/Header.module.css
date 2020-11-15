@@ -1,0 +1,15 @@
+.notifiactions {
+    float: right;
+    margin-right: 3%;
+    padding-top: 5px;
+    color: rgb(221, 117, 134);
+    font-size: 1rem;
+    background-color: transparent;
+    align-self: center;
+    border: none;
+    cursor: pointer;
+    animation-name: rotate;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    transition: all 0.3s;
+}
